@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileTasks2", "FileTasks2\FileTasks2.csproj", "{882AD753-13A1-49FA-A51A-9D34D11B7A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov_Labs", "Tumakov_Labs\Tumakov_Labs.csproj", "{BD142929-059B-4E45-AFA9-51EEE9E46DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{882AD753-13A1-49FA-A51A-9D34D11B7A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882AD753-13A1-49FA-A51A-9D34D11B7A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882AD753-13A1-49FA-A51A-9D34D11B7A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882AD753-13A1-49FA-A51A-9D34D11B7A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD142929-059B-4E45-AFA9-51EEE9E46DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD142929-059B-4E45-AFA9-51EEE9E46DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD142929-059B-4E45-AFA9-51EEE9E46DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD142929-059B-4E45-AFA9-51EEE9E46DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
